@@ -23,7 +23,9 @@ NOTE: Make sure you refresh the page! Sometimes you will not get the lastest upd
 ------------------------------------------------------------
 May, 6
 + Added Wolfenstein 3D 🐱
+^ Fixed issue with Eaglercraft not working
 ------------------------------------------------------------
+>>>>>>> 7357eac1dd43e31ec231aacd579acb74cb81cd4a
 May, 5
 New discord link: https://discord.gg/26jb8mQvzj
 ------------------------------------------------------------
