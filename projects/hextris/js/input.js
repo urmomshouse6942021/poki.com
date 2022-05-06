@@ -202,7 +202,7 @@ function inside (point, vs) {
 	}
 	
 	return inside;
-};
+}
 
 function handleClickTap(x,y) {
 	if (x < 120 && y < 83 && $('.helpText').is(':visible')) {
