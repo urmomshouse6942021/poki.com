@@ -45,6 +45,8 @@ body:
         - Macbook (or any device running macOS)
         - iPhone
         - Other (please note in text field below)
+    validations:
+      required: true
   - type: input
     attributes:
       label: If you said other above, please specify which device you use
