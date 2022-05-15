@@ -15,11 +15,15 @@ NOTE: Make sure you refresh the page! Sometimes you will not get the lastest upd
 
 🐱 | Changes by u4pak
 🐧 | Changes by Piplup7575
+🕹️ | Changes by ThatOnePerson
    | Changes by Echo (unless specified)
 
 + Means something was added
 ^ Means something was upgraded or changed
 - Means something was removed
+------------------------------------------------------------
+May, 14
++ Added 50+ Games 🕹️
 ------------------------------------------------------------
 May, 13
 + Added gimme the airpod
