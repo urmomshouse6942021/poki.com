@@ -1,0 +1,7 @@
+{
+  "name": "FlashPass",
+  "description": "The main 3kh0 website!",
+  "repository": "https://github.com/3kh0/3kh0.github.io",
+  "logo": "https://3kh0.github.io/img/double.png",
+  "keywords": ["node", "express", "static"]
+}
